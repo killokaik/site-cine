@@ -1,0 +1,279 @@
+.titulo{
+    font-size: 60px;
+    text-align: justify;
+    padding: 30px;
+    color:#FF8C00;
+    font-family: sans-serif;
+    margin-left: 90px
+}
+
+.logo{
+   max-width: 90px; max-height: 100px;
+    margin-left: 20px;
+    margin-top: -150
+}
+
+header{
+    padding: 10px;
+    background-image: url(red.png); 
+
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+    border: 3px solid black;
+}
+
+.topnav a {
+    float: left;
+    display: block;
+    color: 	#FF8C00;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    margin-right: 40px;
+    font-family: sans-serif
+    
+}
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+body{
+    margin: 0;
+    background-image: url(red.png);
+    background-repeat: no-repeat;
+
+}
+
+
+
+.vingadores {
+  float:left;
+  width:685px;
+  background:#104E8B;
+  margin-bottom:2px;
+    
+   
+    
+}
+
+.silencioso {
+  float:left;
+  width:685px;
+  background:#104E8B;
+  margin-bottom:2px;
+    
+   
+    
+}
+
+.jogador {
+  float:left;
+  width:685px;
+  background:#104E8B;
+  margin-bottom:2px;
+   
+    
+}
+
+.container {
+	text-align: left ;
+	margin:  37px auto;
+	width:1280px ;
+	background:#FFF ;
+  	position: relative;
+}
+
+
+.video1{
+    float: left;
+    margin:  20px 20px 10;
+}
+
+.video2{
+    float: left;
+    margin:  20px 20px 10;
+}
+
+.video3{
+    float: left;
+    margin: 47 20px 20px 10;
+}
+
+.navegacao-site {
+	width: 20%;
+	position: relative;
+	top: -869px;
+    height: 100%
+}
+
+.navegacao-site {
+	float: right;
+	box-sizing: border-box;
+	border: 5px solid black;
+	border-bottom: 5px solid black;
+}
+
+
+nav a {
+	text-transform: lowercase;
+}
+
+
+
+.navegacao-site a {
+	color: inherit;
+	font-family: "Open Sans Condensed", sans-serif;
+}
+
+.navegacao-site, .rodape-pagina {
+    padding: 20px;
+}
+
+.navegacao-site h1 {
+	font-size: 30px;
+	margin-bottom: 25px;
+}
+
+.navegacao-site {
+	text-align: center;
+	background-color: #333;
+	color: #FF8C00;
+}
+
+.rodape-pagina {
+	background-color: #000;
+	color: #FF8C00;
+	clear: both;
+	position:fixed;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+    opacity: 0.7;  
+    height: 5px;
+}
+
+.facebook {
+	background-image: url(facebook.png);
+}
+
+.twitter {
+	background-image: url(twitter.png);
+}
+
+.instagram {
+	background-image: url(instagram.png);
+}
+
+.youtuber {
+	background-image: url(youtube.png);
+}
+
+.navegacao-site a {
+	color: inherit;
+	font-family: "Open Sans Condensed", sans-serif;
+}
+
+.icones-redes-sociais a {
+	width: 24px;
+	height: 24px;
+	display: block;
+	text-indent: -99999px;
+    margin-right: 14px;
+    margin-top: 50px;
+}
+.icones-redes-sociais li {
+	display: inline-block;
+}
+
+.busca{
+    background-color:#000;
+    border:solid 1px;
+    border-radius:15px;
+    width:220px;
+}
+
+.txtBusca{
+  float:left;
+  background-color:transparent;
+  padding-left:5px;
+  font-style:italic;
+  font-size:18px;
+  border:none;
+  height:32px;
+  width:160px;
+  color: #FF8C00;
+}
+.destaque{
+    font-family: sans-serif;
+    color:#FF8C00;
+    margin-left: 15px;
+
+}
+
+.p1{
+    color: black;
+    font-size: 20px;
+
+}
+
+.lista-lateral li{
+    display: block;
+    margin-top: 50px;
+    text-align: left;
+}
+.chat{
+    position: absolute;
+    height: 200px;
+    background-color: #104E8B;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    top: 1850px;
+    
+}
+.cor{
+    color: #FF8C00;
+    font-family: sans-serif;
+}
+
+.contatos{
+display:inline;
+}
+
+.video-camera{
+    float: right;
+    width: 8%;
+}
+
+.film{
+    float: right;
+    margin: 162px 0px 9px 
+}
+.clapper{
+    float: right;
+    margin: 200px -250px;
+    width: 3%
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
